@@ -1,0 +1,14 @@
+C:\Users\Jevic\Desktop\project\Tshilumba2\Tshilumba2\bin\Debug\net8.0\Tshilumba2.exe
+C:\Users\Jevic\Desktop\project\Tshilumba2\Tshilumba2\bin\Debug\net8.0\Tshilumba2.deps.json
+C:\Users\Jevic\Desktop\project\Tshilumba2\Tshilumba2\bin\Debug\net8.0\Tshilumba2.runtimeconfig.json
+C:\Users\Jevic\Desktop\project\Tshilumba2\Tshilumba2\bin\Debug\net8.0\Tshilumba2.dll
+C:\Users\Jevic\Desktop\project\Tshilumba2\Tshilumba2\bin\Debug\net8.0\Tshilumba2.pdb
+C:\Users\Jevic\Desktop\project\Tshilumba2\Tshilumba2\obj\Debug\net8.0\Tshilumba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jevic\Desktop\project\Tshilumba2\Tshilumba2\obj\Debug\net8.0\Tshilumba2.AssemblyInfoInputs.cache
+C:\Users\Jevic\Desktop\project\Tshilumba2\Tshilumba2\obj\Debug\net8.0\Tshilumba2.AssemblyInfo.cs
+C:\Users\Jevic\Desktop\project\Tshilumba2\Tshilumba2\obj\Debug\net8.0\Tshilumba2.csproj.CoreCompileInputs.cache
+C:\Users\Jevic\Desktop\project\Tshilumba2\Tshilumba2\obj\Debug\net8.0\Tshilumba2.dll
+C:\Users\Jevic\Desktop\project\Tshilumba2\Tshilumba2\obj\Debug\net8.0\refint\Tshilumba2.dll
+C:\Users\Jevic\Desktop\project\Tshilumba2\Tshilumba2\obj\Debug\net8.0\Tshilumba2.pdb
+C:\Users\Jevic\Desktop\project\Tshilumba2\Tshilumba2\obj\Debug\net8.0\Tshilumba2.genruntimeconfig.cache
+C:\Users\Jevic\Desktop\project\Tshilumba2\Tshilumba2\obj\Debug\net8.0\ref\Tshilumba2.dll
